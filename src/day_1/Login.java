@@ -8,7 +8,6 @@ public class Login {
         //this is giyhub practice
 
         //this message write in intellij
-sdsds
 
     //ahmetkaptan
         
