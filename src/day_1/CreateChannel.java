@@ -5,12 +5,12 @@ public class CreateChannel {
 
         System.out.println("slack project");
         
-        String s= "a";
-if(s.contains("a")){
+         String s= "a";
+    if(s.contains("a")){
     System.out.println("contains");
-}else{
-    System.out.println("not");
-}
+        }else{
+            System.out.println("not");
+                }
 
         if (8>9){ //changed from intellij
             System.out.println("false");
