@@ -17,6 +17,12 @@ if(s.contains("a")){
         }else{
             System.out.println("true");
         }
+        
 
     }
+    
+    int x=0;
+if (x==0){
+    System.out.println("equal");
+}
 }
